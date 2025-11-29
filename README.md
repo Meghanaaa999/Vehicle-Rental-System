@@ -20,13 +20,13 @@ This project demonstrates strong use of **Object-Oriented Programming (OOP)**, i
 - **Scanner (User Input)**
 
 ## ▶️ How to Run the Project
-
-### **1. Compile the Java files**
+###
+**1. Compile the Java files**
 ```bash
 javac *.java
 
 
-## 📜 Sample Output
+### 📜 Sample Output
 Welcome to Vehicle Rental System
 1. View Vehicles
 2. Rent Vehicle
